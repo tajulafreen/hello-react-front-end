@@ -145,7 +145,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 👤 **tajulafreen**
 
 - GitHub: [@tajulafreen](https://github.com/tajulafreen)
-- Linkedin: [@tajulafreen](https://www.linkedin.com/tajul-afreen)
+- Linkedin: [@tajulafreen](https://www.linkedin.com/in/tajul-afreen)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
